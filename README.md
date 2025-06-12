@@ -29,7 +29,7 @@ real-madrid-dashboard/
 
 ```
 DB_HOST=localhost
-DB_NAME=real_madrid
+DB_NAME=yourdatabse
 DB_USER=root
 DB_PASS=yourpassword
 ```
