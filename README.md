@@ -108,9 +108,9 @@ git clone https://github.com/namamu/real-madrid-dashboard.git
 
 ```env
 DB_HOST=localhost
-DB_NAME=real_madrid
+DB_NAME=yourdatabse
 DB_USER=root
-DB_PASS=password_anda
+DB_PASS=yourpassword
 ```
 
 3. Import SQL berikut ke MySQL:
