@@ -1,0 +1,21 @@
+# Ignore .env file
+.env
+
+# Node modules (kalau pakai frontend tool)
+node_modules/
+
+# Composer (kalau pakai PHP modern)
+vendor/
+
+# OS & editor cache files
+.DS_Store
+Thumbs.db
+*.log
+
+# PHPStorm / VSCode / lainnya
+.idea/
+.vscode/
+
+# Cache / session
+*.cache
+*.tmp
